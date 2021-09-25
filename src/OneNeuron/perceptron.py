@@ -36,7 +36,7 @@ class Perceptron:
       self.error = self.y - y_hat  # Calculating the error
       logging.info(f"error: \n{self.error}")
 
-      self.weights = self.weights + self.eta * np.dot(X_with_bias.T, self.error) # Updating the weights - Back Propagation
+      self.weights = self.weights + self.eta * np.dot(X_with_bias.T, self.error) # Updating the weights- Back Propagation
       logging.info(f"updated weights after epoch: \n{epoch}/{self.epochs}: \n {self.weights}")
       logging.info("#####"*10)
  
