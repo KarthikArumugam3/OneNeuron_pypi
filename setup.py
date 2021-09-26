@@ -17,7 +17,7 @@ setuptools.setup(
     url= f"https://github.com/{USER_NAME}/{PROJECT_NAME}",
     project_urls={
         "Bug Tracker": f"https://github.com/{USER_NAME}/{PROJECT_NAME}/issues",
-    },
+    }, 
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",

@@ -5,7 +5,7 @@ Email: karthik131100@gmail.com
 
 import numpy as np
 import logging 
-from tqdm import tqdm 
+from tqdm import tqdm  
 
 class Perceptron:
   def __init__(self, eta,epochs):
