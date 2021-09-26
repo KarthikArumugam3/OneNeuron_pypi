@@ -1,9 +1,9 @@
 # OneNeuron_pypi
 OneNeuron_pypi
 
-In this repository I have published a python package named - [OneNeuron](https://pypi.org/project/OneNeuron-pypi-KarthikArumugam3/) which implements the use cases of my [One neuron/Single perceptron demo project](https://github.com/KarthikArumugam3/perceptron-demo)
+In this repository I have published a python package named - [OneNeuron](https://pypi.org/project/OneNeuron-pypi-KarthikArumugam3/) which implements the use cases of my [One neuron/perceptron demo project](https://github.com/KarthikArumugam3/perceptron-demo)
 
-Using this package/module along with the my [One neuron/Single perceptron demo project](https://github.com/KarthikArumugam3/perceptron-demo) anyone can implement the basic functionality of the a single neuron/a perceptron such as AND and OR gates:-
+Using this package/module along with the my [One neuron/perceptron demo project](https://github.com/KarthikArumugam3/perceptron-demo) anyone can implement the basic functionality of the a single neuron/perceptron such as AND and OR gates:-
 
 ## How to use:-
 
